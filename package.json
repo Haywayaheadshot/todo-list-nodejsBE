@@ -1,0 +1,26 @@
+{
+  "name": "todo-list-nodejsbe",
+  "version": "1.0.0",
+  "description": "Backend for a todo list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js --port 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haywayaheadshot/todo-list-nodejsBE.git"
+  },
+  "keywords": [
+    "todolist"
+  ],
+  "author": "Abubakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haywayaheadshot/todo-list-nodejsBE/issues"
+  },
+  "homepage": "https://github.com/Haywayaheadshot/todo-list-nodejsBE#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
